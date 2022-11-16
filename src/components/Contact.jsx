@@ -16,7 +16,7 @@ const theme = createTheme();
 
 const Contact = () => {
     
-        const URL = 'https://remotely-pwa.herokuapp.com/contactus';
+        const URL = 'https://web-production-0bd5.up.railway.app/contactus';
 
         const [inputs, setInputs] = useState({
             // id: "",

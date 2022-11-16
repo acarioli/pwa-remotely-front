@@ -7,7 +7,7 @@ import "../css/Subscriptions.css";
 const Subscriptions = () => {
   const [subscriptions, setSubscriptions] = useState([]);
 
-  const URL = "https://remotely-pwa.herokuapp.com/";
+  const URL = "https://web-production-0bd5.up.railway.app/";
 
   const getSubscriptions = async () => {
     try {

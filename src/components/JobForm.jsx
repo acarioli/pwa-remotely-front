@@ -12,7 +12,7 @@ const theme = createTheme();
 
 const JobForm = () => {
     
-        const URL = 'https://remotely-pwa.herokuapp.com/upload';
+        const URL = 'https://web-production-0bd5.up.railway.app/upload';
 
         const [inputs, setInputs] = useState({
             // id: "",

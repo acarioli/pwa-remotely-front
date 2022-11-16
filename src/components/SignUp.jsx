@@ -24,7 +24,7 @@ const SignUp = () => {
       password: data.get("password"),
     });
   };
-  const URL = "https://remotely-pwa.herokuapp.com/register";
+  const URL = "https://web-production-0bd5.up.railway.app/register";
 
   const [inputs, setInputs] = useState({
     // id: "",

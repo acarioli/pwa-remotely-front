@@ -9,7 +9,7 @@ const Messages = () => {
 
   const [contacts, setContacts] = useState([]);
 
-  const URL = "https://remotely-pwa.herokuapp.com/contactus/";
+  const URL = "https://web-production-0bd5.up.railway.app/contactus/";
 
   const getContacts = async () => {
     try {

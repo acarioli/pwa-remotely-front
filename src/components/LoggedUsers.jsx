@@ -7,7 +7,7 @@ import "../css/LoggedUsers.css";
 const LoggedUsers = () => {
   const [users, setUsers] = useState([]);
 
-  const URL = "https://remotely-pwa.herokuapp.com/";
+  const URL = "https://web-production-0bd5.up.railway.app/";
 
   const getUsers = async () => {
     try {

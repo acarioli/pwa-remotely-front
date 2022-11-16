@@ -6,7 +6,7 @@ import React, { useState } from 'react';
 
 function Footer() {
 
-const URL = 'https://remotely-pwa.herokuapp.com/subscribe';
+const URL = 'https://web-production-0bd5.up.railway.app/subscribe';
 
 const [inputs, setInputs] = useState({
     // id: "",

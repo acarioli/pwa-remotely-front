@@ -7,7 +7,7 @@ import Swal from "sweetalert2";
 const JobList = () => {
   const [jobs, setJobs] = useState([]);
 
-  const URL = "https://remotely-pwa.herokuapp.com/";
+  const URL = "https://web-production-0bd5.up.railway.app/";
 
   const getJobs = async () => {
     try {
