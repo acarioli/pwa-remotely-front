@@ -28,8 +28,8 @@ const handleClick = async () => {
     })
 
 Swal.fire({
-    title: 'Data sent',
-    text: 'Thanks to sent your data',
+    title: 'Thank you!',
+    text: 'You will find out all the news and you will be able to access exclusive information',
     icon: 'success',
     confirmButtonText: 'Accept'
 })

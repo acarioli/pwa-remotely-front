@@ -7,7 +7,7 @@ import "../css/LoggedUsers.css";
 const LoggedUsers = () => {
   const [users, setUsers] = useState([]);
 
-  const URL = "https://web-production-0bd5.up.railway.app/";
+  const URL = "https://web-production-0bd5.up.railway.app/register";
 
   const getUsers = async () => {
     try {
